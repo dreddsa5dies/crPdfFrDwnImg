@@ -1,7 +1,5 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/dreddsa5dies/crPdfFrDwnImg)](https://goreportcard.com/report/github.com/dreddsa5dies/crPdfFrDwnImg) ![License](https://img.shields.io/badge/License-MIT-blue.svg)  
 
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](https://www.buymeacoffee.com/GDNsM0F)
-
 ## Создание PDF из скаченных изображений слайдов и лекций
 * Сначала скачивайте изображения по очереди - это важно при формировании итогового PDF
 * Итоговые PDF формируются по названиям ПОДПАПОК, поэтому разбивайте на темы
